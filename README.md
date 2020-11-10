@@ -1,1 +1,5 @@
-# Speedmeter-HUD
+Ce scripts est prit de la base de Alynia!
+
+Donc je ne proposerai pas de support.
+
+Je partage se scripts pour que vous Arrêtez de acheter des trucs alors qu'il sont gratuit!
